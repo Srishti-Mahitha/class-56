@@ -1,0 +1,10 @@
+body {
+ text-align:center;
+ background-color:cornflowerblue;
+}
+img {
+ width:500px;
+ height:500px;
+ margin:50px;
+border-style:dashed;
+}
